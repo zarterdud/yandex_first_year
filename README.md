@@ -9,13 +9,13 @@
 
 
 
-##1. Clone the repository
+## 1. Clone the repository
 
 ```bash
 git clone https://github.com/zarterdud/yandex_first_year.git
 ```
 
-##2 💻 Built with
+## 2 💻 Built with
 
 - [Python](https://www.python.org/): for all technical work
 
