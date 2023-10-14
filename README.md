@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">School student from Russia</h3>
 
+__In this repository you can see many answers for yandex.lyceum tasks__
+
 ## 🛠️ Installation Steps
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
